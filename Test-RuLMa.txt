@@ -1,0 +1,352 @@
+# Title: StevenBlack/hosts
+#
+# This hosts file is a merged collection of hosts from reputable sources,
+# with a dash of crowd sourcing via GitHub
+#
+# Date: 30 March 2023 02:19:08 (UTC)
+# Number of unique domains: 195,225
+#
+# Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts
+# Project home page: https://github.com/StevenBlack/hosts
+# Project releases: https://github.com/StevenBlack/hosts/releases
+#
+# ===============================================================
+
+127.0.0.1 localhost
+127.0.0.1 localhost.localdomain
+127.0.0.1 local
+255.255.255.255 broadcasthost
+::1 localhost
+::1 ip6-localhost
+::1 ip6-loopback
+fe80::1%lo0 localhost
+ff00::0 ip6-localnet
+ff00::0 ip6-mcastprefix
+ff02::1 ip6-allnodes
+ff02::2 ip6-allrouters
+ff02::3 ip6-allhosts
+0.0.0.0 0.0.0.0
+
+# Custom host records are listed here.
+
+
+# End of custom host records.
+# Start StevenBlack
+
+#=====================================
+# Title: RuLMaN
+# http://stevenblack.com
+
+
+0.0.0.0 apptospace.com
+0.0.0.0 kingadsvip.club
+0.0.0.0 aybereklam.com
+0.0.0.0 noahilum.net
+0.0.0.0 hgijycxp.com
+0.0.0.0 publisher-network.com
+0.0.0.0 adcsh.cfd
+0.0.0.0 glizauvo.net
+0.0.0.0 yrstwbyl.xyz
+0.0.0.0 gaiphaud.xyz
+0.0.0.0 dzypro.xyz
+://sportframe*.org
+://sportframe*.cfd
+0.0.0.0 storj.cloud
+0.0.0.0 clbanners9.com$all
+0.0.0.0 my.urdreama.cfd
+0.0.0.0 referans.xyz
+0.0.0.0 lider90.com
+0.0.0.0 friendshipmale.com
+0.0.0.0 gloaphoo.net
+0.0.0.0 diken.xyz
+0.0.0.0 realhumandeals.com
+0.0.0.0 likevertising.com
+0.0.0.0 banlamaartikoce.ml
+0.0.0.0 betstadyum.com
+0.0.0.0 sportframe.org
+0.0.0.0 cokemoke.cf
+0.0.0.0 alikosx.ml
+0.0.0.0 reklamdor.com
+0.0.0.0 pophit.net
+0.0.0.0 betcdn.biz
+0.0.0.0 bursavitrinresim.xyz
+0.0.0.0 sosinyo.xyz
+0.0.0.0 cplayer.pw
+://r.reklam*.com
+://say.ac
+0.0.0.0 venediktaciri.com
+0.0.0.0 88.150.149.92/~cosiker
+0.0.0.0 aadserving.com
+0.0.0.0 acxdyn.com
+0.0.0.0 ad*.bilgin.pro
+0.0.0.0 ad*.tmgrup.com.tr
+0.0.0.0 ad.arklm.com
+0.0.0.0 ad.bestsportstream.com
+0.0.0.0 ad.donanimhaber.com
+0.0.0.0 ad.eglenced.com
+0.0.0.0 ad.emlakeki.com
+0.0.0.0 ad.reklam.xyz
+0.0.0.0 ad.reklamport.com
+0.0.0.0 ad.reyazilim.com
+0.0.0.0 ad.setrowid.com
+0.0.0.0 adasist.com
+0.0.0.0 adbetnet.com
+0.0.0.0 adbetnetwork.com
+0.0.0.0 adbreak.cubecdn.net
+0.0.0.0 adbreak.net
+0.0.0.0 adbuzz.com.tr
+0.0.0.0 adcater.com
+0.0.0.0 add.f5haber.com
+0.0.0.0 adeko.mobi
+0.0.0.0 adfor.io
+0.0.0.0 adfox.ru
+0.0.0.0 adgain-publisher.com
+0.0.0.0 adhood.com
+0.0.0.0 adhouse.cubecdn.net
+0.0.0.0 adhouse.pro
+0.0.0.0 adimage.media
+0.0.0.0 adl.mynetreklam.com
+0.0.0.0 admatic.com.tr
+0.0.0.0 admoxi.com
+0.0.0.0 adnamo.net
+0.0.0.0 adnatro.com
+0.0.0.0 adnexio.com
+0.0.0.0 adnimo.com
+0.0.0.0 adnsafe.net
+0.0.0.0 adon.io
+0.0.0.0 adpozitif.com
+0.0.0.0 adrazzi.com
+0.0.0.0 adreda.com
+0.0.0.0 adreman.pro
+0.0.0.0 adrequests.com
+0.0.0.0 adrttt.com
+0.0.0.0 ads.dogusdigital.com
+0.0.0.0 ads.usa-media.net
+0.0.0.0 ads.web.tr
+0.0.0.0 adsblok.com
+0.0.0.0 adserver.tutkusunucu.com
+0.0.0.0 adsupp.network
+0.0.0.0 adtarget.com.tr
+0.0.0.0 advancenative.com
+0.0.0.0 advertag.in
+0.0.0.0 advoly.com
+0.0.0.0 adwods.com
+0.0.0.0 adzbaba.com
+0.0.0.0 affiliateserver.hangikredi.com
+0.0.0.0 afyonturkreklam.com
+0.0.0.0 amazonaws.com/ad-maven-public-cdn
+0.0.0.0 an.yandex.ru
+0.0.0.0 api.adintext.net
+0.0.0.0 api.adnsafe.org
+0.0.0.0 app.gelirartisi.com
+0.0.0.0 ariyayin.com
+0.0.0.0 artemisaffiliates.com
+0.0.0.0 asdqweq.com
+0.0.0.0 aspartos.com$all
+0.0.0.0 ayandns.com
+0.0.0.0 bahisciler.co
+0.0.0.0 bambarmedia.com
+0.0.0.0 basvformu*.xyz
+0.0.0.0 bcvc.mobi
+0.0.0.0 bcvcrdr.xyz
+0.0.0.0 betburdaaffiliates.com
+0.0.0.0 betendads.com
+0.0.0.0 betkanyon100.com
+0.0.0.0 betwinnerpromo.com
+0.0.0.0 bformu12.tk
+0.0.0.0 bilink.xyz
+0.0.0.0 binaryad.com
+0.0.0.0 block.s2block.com
+0.0.0.0 bo.facesbet.com
+0.0.0.0 bultenler.klscdn.com
+0.0.0.0 bumbook.xyz
+0.0.0.0 buzzreklam.com
+0.0.0.0 bwcdn.xyz
+0.0.0.0 bwtsrv.com
+0.0.0.0 cdn.advgalaxy.com
+0.0.0.0 cdn.klasseo.com
+0.0.0.0 cdn.marjmedya.com
+0.0.0.0 cdn.smartclick.io
+0.0.0.0 chaicdn.tk
+0.0.0.0 citireklam.com
+0.0.0.0 clickmerkez.com
+0.0.0.0 clinicsofturkey.com/attachment
+0.0.0.0 cntadvertising.com
+0.0.0.0 coderturk.com
+0.0.0.0 contema.ru
+0.0.0.0 content.acc-hd.de
+0.0.0.0 ctru.net/adv_hash
+0.0.0.0 d1d8vn0fpluuz7.cloudfront.net
+0.0.0.0 danmeneldur.com
+0.0.0.0 derya.com$script,third-party
+0.0.0.0 dmcdn.yieldbird.com
+0.0.0.0 dogus-ads-cdn.dygdigital.com
+0.0.0.0 dolarkurum.com
+0.0.0.0 dosya.host/banners/
+0.0.0.0 downads.com
+0.0.0.0 engageya.com
+0.0.0.0 erotiksfilmizle.com
+0.0.0.0 fcdn.webme.com/selfpromotion.php
+0.0.0.0 files.pbgiris.com
+0.0.0.0 finema-net.cdn.ampproject.org
+0.0.0.0 finema.net
+0.0.0.0 franecki.net
+0.0.0.0 frknseo.info
+0.0.0.0 fvbaffiliate.com
+0.0.0.0 genelajans.com
+0.0.0.0 git.emarketing724.com
+0.0.0.0 glixaing.com$all
+0.0.0.0 gmgreklam.com
+0.0.0.0 gndrglsn.com
+0.0.0.0 go.spaceshipads.com/afu.php?zoneid
+0.0.0.0 gorselcdn.com
+0.0.0.0 gorselpanel.com
+0.0.0.0 hetaruvg.com$all
+0.0.0.0 htpanel.com
+0.0.0.0 imwarwi.ru
+0.0.0.0 indirads.org
+0.0.0.0 indirads.work
+0.0.0.0 indisancal.com
+0.0.0.0 inegolreklam.net
+0.0.0.0 inrool.com
+0.0.0.0 insankafa.cc
+0.0.0.0 installads.net
+0.0.0.0 installads.org
+0.0.0.0 installads2.com$popup
+0.0.0.0 installads2.com
+0.0.0.0 ivr.com.tr
+0.0.0.0 iyisayfa.net
+0.0.0.0 jigolobasvuru.xyz
+0.0.0.0 kalitereklam.com
+0.0.0.0 kingads.mobi
+0.0.0.0 knkyeterla.cc
+0.0.0.0 kos.interseek.si
+0.0.0.0 kralseo.info
+0.0.0.0 kurulum.xyz
+0.0.0.0 kuzeyinyeri.site
+0.0.0.0 launchingonsetwhirlwind.com
+0.0.0.0 load.sumome.com
+0.0.0.0 makroads.net
+0.0.0.0 makroo.com
+0.0.0.0 mediapeartree.com
+0.0.0.0 metrics34.com
+0.0.0.0 minireklam.com
+0.0.0.0 mkazanc.com
+0.0.0.0 mobilpop.com
+0.0.0.0 mobilup.com
+0.0.0.0 mobon.com
+0.0.0.0 mp.subservis.com
+0.0.0.0 mynativeads.com
+0.0.0.0 n69adserv.com
+0.0.0.0 nativendo.com
+0.0.0.0 nativespot.com
+0.0.0.0 networkad.net
+0.0.0.0 noxaffiliates.com
+0.0.0.0 numarabiz.com/scr
+0.0.0.0 numarapaneli.com
+0.0.0.0 nutga.com
+0.0.0.0 octffocdigiturk.cc
+0.0.0.0 partner.superbahisaffiliates248.com
+0.0.0.0 partners.betbooaffiliates.com
+0.0.0.0 partnerx.bethub.io$all
+0.0.0.0 perabetads.com
+0.0.0.0 performancenative.com
+0.0.0.0 permato.com
+0.0.0.0 piaads.com
+0.0.0.0 pixenka.com
+0.0.0.0 pmelon.com
+0.0.0.0 powferads.com
+0.0.0.0 pradma.com
+0.0.0.0 promoviral.com
+0.0.0.0 r20.club
+0.0.0.0 redsurf.ru/bn
+0.0.0.0 ref.gitadres.com$popup
+0.0.0.0 refbanners.website
+0.0.0.0 refpa.top
+0.0.0.0 rek.hepaffiliates.com
+0.0.0.0 rek.mobi
+0.0.0.0 rek.yemlee.com
+0.0.0.0 reklam7.com
+0.0.0.0 reklam8.net
+0.0.0.0 reklamaction.com
+0.0.0.0 reklamagaci.com
+0.0.0.0 reklamatik.com
+0.0.0.0 reklambanner.net
+0.0.0.0 reklamcdn.com
+0.0.0.0 reklamfit.com
+0.0.0.0 reklamnative.com
+0.0.0.0 reklampazar.com
+0.0.0.0 reklampiksel.com
+0.0.0.0 reklamstore.com
+0.0.0.0 reklamstore.cubecdn.net
+0.0.0.0 reklamtrk.com
+0.0.0.0 reviveservers.com
+0.0.0.0 revotas.com
+0.0.0.0 salutationcheerlessdemote.com
+0.0.0.0 savoy.storage.cubecdn.net
+0.0.0.0 segmentify.com
+0.0.0.0 seldos.com.tr
+0.0.0.0 sinefilmizlesen.com
+0.0.0.0 slhgfdsir.com
+0.0.0.0 smopy.com
+0.0.0.0 smrtbnr.com
+0.0.0.0 smrtbnr.info
+0.0.0.0 smrtbnr.space
+0.0.0.0 smrtbnr.top
+0.0.0.0 stairtuy.com
+0.0.0.0 static-ads.akamaized.net
+0.0.0.0 stopblyat.tk
+0.0.0.0 storj.cloud
+0.0.0.0 sw1block.com
+0.0.0.0 tagon.co
+0.0.0.0 tarpitbar.com$popup
+0.0.0.0 tempobanners.com
+0.0.0.0 theadx.com
+0.0.0.0 threedrive.su
+0.0.0.0 thresholdeliminate.com
+0.0.0.0 tidint.pro
+0.0.0.0 tr.bannersdf.com
+0.0.0.0 tracking.redirect.pub
+0.0.0.0 tracking.ucreate.live
+0.0.0.0 trackocean.com
+0.0.0.0 turngrind.com
+0.0.0.0 ucretsiz-indirin.online
+0.0.0.0 uzmanreklam.com
+0.0.0.0 vegabet.net
+0.0.0.0 videoustu.com
+0.0.0.0 virgul.com
+0.0.0.0 vitrinler3.com
+0.0.0.0 vvhatsappsohbetim.site
+0.0.0.0 vxhrhnvtucv.com
+0.0.0.0 whatsapp-chat.xyz
+0.0.0.0 whatsappsohbetim.net
+0.0.0.0 winaffiliates.com
+0.0.0.0 wlgtaffiliates.eacdn.com
+0.0.0.0 wonoddgiris.com
+0.0.0.0 xmtrk.com
+0.0.0.0 xpornoizlee.com
+0.0.0.0 xpornoizlex.net
+0.0.0.0 xyztanitim.com
+0.0.0.0 yebadu.com
+0.0.0.0 yedimedia.net
+0.0.0.0 yes999.cf
+0.0.0.0 yes999.ga
+0.0.0.0 yes999.gq
+0.0.0.0 yes999.ml
+0.0.0.0 yes999.tk
+0.0.0.0 yfzbn.com
+0.0.0.0 youtubesave.org
+0.0.0.0 youtubex.top
+0.0.0.0 yx-ads6.com
+0.0.0.0 zafrc.5780.site$
+
+# End yoyo.org
+
+# blacklist
+#
+# The contents of this file (containing a listing of additional domains in
+# 'hosts' file format) are appended to the unified hosts file during the
+# update process. For example, uncomment the following line to block
+# 'example.com':
+
+# 0.0.0.0 example.com
