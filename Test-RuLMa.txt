@@ -104,13 +104,13 @@ betcdn.biz
 bursavitrinresim.xyz
 sosinyo.xyz
 cplayer.pw
-://r.reklam*.com
-://say.ac
+r.reklam.com
+say.ac
 venediktaciri.com
 88.150.149.92/~cosiker/
 aadserving.com
 acxdyn.com
-ad*.bilgin.pro
+bilgin.pro
 ad*.tmgrup.com.tr
 ad.arklm.com
 ad.bestsportstream.com
@@ -178,7 +178,7 @@ aspartos.com
 ayandns.com
 bahisciler.co
 bambarmedia.com
-basvformu*.xyz
+basvformu.xyz
 bcvc.mobi
 bcvcrdr.xyz
 betburdaaffiliates.com
@@ -210,7 +210,7 @@ content.acc-hd.de
 ctru.net/adv_hash
 d1d8vn0fpluuz7.cloudfront.net
 danmeneldur.com
-derya.com$script,third-party
+derya.com
 dmcdn.yieldbird.com
 dogus-ads-cdn.dygdigital.com
 dolarkurum.com
@@ -244,7 +244,7 @@ inrool.com
 insankafa.cc
 installads.net
 installads.org
-installads2.com$popup
+installads2.com
 installads2.com
 ivr.com.tr
 iyisayfa.net
