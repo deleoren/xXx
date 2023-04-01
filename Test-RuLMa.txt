@@ -71,7 +71,6 @@ tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 ttauri.livescience.com
 apptospace.com
 kingadsvip.club
-://sportframe*.co
 aybereklam.com
 noahilum.net
 hgijycxp.com
@@ -81,8 +80,6 @@ glizauvo.net
 yrstwbyl.xyz
 gaiphaud.xyz
 dzypro.xyz
-://sportframe*.org
-://sportframe*.cfd
 storj.cloud
 clbanners9.com
 my.urdreama.cfd
@@ -107,7 +104,7 @@ cplayer.pw
 r.reklam.com
 say.ac
 venediktaciri.com
-88.150.149.92/~cosiker/
+88.150.149.92
 aadserving.com
 acxdyn.com
 bilgin.pro
@@ -202,7 +199,7 @@ cdn.smartclick.io
 chaicdn.tk
 citireklam.com
 clickmerkez.com
-clinicsofturkey.com/attachment/
+clinicsofturkey.com
 cntadvertising.com
 coderturk.com
 contema.ru
@@ -230,7 +227,7 @@ git.emarketing724.com
 glixaing.com
 gmgreklam.com
 gndrglsn.com
-go.spaceshipads.com/afu.php?zoneid
+go.spaceshipads.com
 gorselcdn.com
 gorselpanel.com
 hetaruvg.com
@@ -274,7 +271,7 @@ nativendo.com
 nativespot.com
 networkad.net
 noxaffiliates.com
-numarabiz.com/scr
+numarabiz.com
 numarapaneli.com
 nutga.com
 octffocdigiturk.cc
@@ -431,10 +428,11 @@ stackpath.bootstrapcdn.com
 betist887.com
 8f3ea56e-788a-44c2-ae0f-2fc255e8ed54.curacao-egaming.com
 accounts.livechatinc.com
-api.livechatinc.com,
+api.livechatinc.com
 cdn.livechatinc.com
 cms.deimosphobos.net
-eu-swarm-ws-re.betcoswarm.com,
+eu-swarm-ws-re
+betcoswarm.com
 geoapi.bcapps.org
 rgs-wss.betconstructapps.com
 verification.curacao-egaming.com
