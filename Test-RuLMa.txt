@@ -393,8 +393,6 @@ nmredirect1.com
 track.adform.net
 rexbet301.com
 track.adform.net
-quickactions.netlify.app
-fastactions.netlify.com
 lptag.liveperson.net
 cmsbetconstruct.com
 lpcdn.lpsnmedia.net
@@ -437,3 +435,6 @@ geoapi.bcapps.org
 rgs-wss.betconstructapps.com
 verification.curacao-egaming.com
 LordCasino214.com
+nmrdr.netlify.app
+quickactions.netlify.app
+fastactions.netlify.com
