@@ -429,3 +429,13 @@ ipinfo.io
 rdrctbts.com
 stackpath.bootstrapcdn.com
 betist887.com
+8f3ea56e-788a-44c2-ae0f-2fc255e8ed54.curacao-egaming.com
+accounts.livechatinc.com
+api.livechatinc.com,
+cdn.livechatinc.com
+cms.deimosphobos.net
+eu-swarm-ws-re.betcoswarm.com,
+geoapi.bcapps.org
+lordcasino214.com,
+rgs-wss.betconstructapps.com
+verification.curacao-egaming.com
