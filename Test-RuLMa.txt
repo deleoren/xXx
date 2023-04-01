@@ -403,3 +403,5 @@ www.nmredirect1.com
 www.488queenbet.com
 clientcdn.pushengage.com
 eu-swarm-ws-re.deimosphobos.net
+events.launchdarkly.com
+i.ytimg.com
