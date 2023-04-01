@@ -428,7 +428,6 @@ accounts.livechatinc.com
 api.livechatinc.com
 cdn.livechatinc.com
 cms.deimosphobos.net
-eu-swarm-ws-re
 betcoswarm.com
 geoapi.bcapps.org
 rgs-wss.betconstructapps.com
