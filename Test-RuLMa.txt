@@ -402,7 +402,6 @@ nmredirect1.com
 clientcdn.pushengage.com
 deimosphobos.net
 events.launchdarkly.com
-i.ytimg.com
 mytools.management
 rfbayi.com
 redfoxbet343.com
