@@ -111,7 +111,7 @@ venediktaciri.com
 aadserving.com
 acxdyn.com
 bilgin.pro
-ad*.tmgrup.com.tr
+tmgrup.com.tr
 ad.arklm.com
 ad.bestsportstream.com
 ad.donanimhaber.com
@@ -292,7 +292,7 @@ pradma.com
 promoviral.com
 r20.club
 redsurf.ru/bn/
-ref.gitadres.com$popup
+ref.gitadres.com
 refbanners.website
 refpa.top
 rek.hepaffiliates.com
@@ -331,7 +331,7 @@ stopblyat.tk
 storj.cloud
 sw1block.com
 tagon.co
-tarpitbar.com$popup
+tarpitbar.com
 tempobanners.com
 theadx.com
 threedrive.su
