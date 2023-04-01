@@ -380,6 +380,10 @@ rdwn.pw
 56d2f4da-7281-4cae-8ab7-1e17de60de37.snippet.antillephone.com
 8f3ea56e-788a-44c2-ae0f-2fc255e8ed54.curacao-egaming.com
 94319b4b-f3e6-4924-a7b3-81cabca30333.snippet.antillephone.com
+snippet.antillephone.com
+livechatinc.com
+appcues.net
+antillephone.com
 581betvole.com
 app.launchdarkly.com
 vc.hotjar.io
