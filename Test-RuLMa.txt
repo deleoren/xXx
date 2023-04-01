@@ -403,8 +403,8 @@ cmsbetconstruct.com
 lpcdn.lpsnmedia.net
 beacons.gvt2.com
 sendikasyon.twitter.com
-www.nmredirect1.com
-www.488queenbet.com
+nmredirect1.com
+488queenbet.com
 clientcdn.pushengage.com
 eu-swarm-ws-re.deimosphobos.net
 events.launchdarkly.com
@@ -421,4 +421,11 @@ extrabet454.com
 paribahis465.com
 filmoposter.com
 paribahis.filmoposter.com
+cdn.betist887.com
+clientcdn.pushengage.com
+cutt.ly
+d1l6p2sc9645hc.cloudfront.net
+ipinfo.io
+rdrctbts.com
+stackpath.bootstrapcdn.com
 betist887.com
